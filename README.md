@@ -3,4 +3,4 @@ rootpath
 
 node.js rootpath
 ### install
-npm install root
+npm install rootdir
